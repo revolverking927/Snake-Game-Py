@@ -1,15 +1,3 @@
-"""
-Snake — eat the apples, don't hit yourself or the walls!
-
-Controls:
-    Arrow keys / WASD - move
-    P                 - pause
-    R                 - restart after game over
-    Esc / close window - quit
-
-Requires: pygame  (pip install pygame)
-"""
-
 import pygame
 import random
 import sys
